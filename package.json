@@ -4,6 +4,7 @@
 	"description": "A Project to help me familiarize myself with Backend Development",
 	"keywords": ["a", "project", "for", "backend", "practice", "by", "freecodecamp"],
 	"license": "Sergio",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
